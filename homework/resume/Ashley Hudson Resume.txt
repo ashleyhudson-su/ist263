@@ -1,4 +1,4 @@
-                                                                  Ashley Hudson
+ <p>                                                                 Ashley Hudson
 www.linkedin.com/in/ashleyhudson415 | (516)-697-9547 | amhudson@syr.edu
 
 EDUCATION													
@@ -15,20 +15,20 @@ International Relations: Introduction to International Relations, Global Communi
 EXPERIENCE													
 Public Policy Consulting Group, Syracuse University, Syracuse, N.Y	
 Project Manager 											     Spring 2020
-* Coordinated bi-weekly meetings to update the client on the on the marketing strategy to ensure the work addressed the client’s needs 
-* Maintained and developed a RAID log and technical or functional requirement document to assess and address 15 operational challenges and 12 goals to advance the project’s objective
+* Coordinated bi-weekly meetings to update the client on the on the marketing strategy to ensure the work addressed the clientâ€™s needs 
+* Maintained and developed a RAID log and technical or functional requirement document to assess and address 15 operational challenges and 12 goals to advance the projectâ€™s objective
 * Assisted in completing 15 deliverables including a search engine optimization strategy and created a 42-page knowledge transfer document to guide the client in operating 5 new marketing platforms to increase community outreach and engagement  
 
 Office of Student Living, Syracuse University, Syracuse, N.Y
-Community Advisor 									            Fall 2019 – Spring 2020
+Community Advisor 									            Fall 2019 â€“ Spring 2020
 * Planned and executed monthly community building events to integrate commuter and transfer students to increase responsible and independent living on campus
-* Collaborate with different campus departments to increase transfer, current and commuter student’s awareness of the university’s resources to improve the student experience
+* Collaborate with different campus departments to increase transfer, current and commuter studentâ€™s awareness of the universityâ€™s resources to improve the student experience
 * Designed flyers assisted wrote captions to engage student body and increase student turnout
 
 Juvenile Urban Multicultural Program (JUMP Nation), Syracuse University, Syracuse, N.Y
-Mentor 												 	Spring 2018 – Present
+Mentor 												 	Spring 2018 â€“ Present
 * Facilitated group discussions about relevant topics with 20 high school and 10 middle school students to guide community building and a critique of society and culture
-* Improved the group’s network and connection with activities and events that strengthened community and trust
+* Improved the groupâ€™s network and connection with activities and events that strengthened community and trust
 
 COMMUNITY SERVICE												
 Food Recovery Network- Package and transport 20 containers of unused food the 	Fall 2018
@@ -42,5 +42,5 @@ SKILLS
 Microsoft Office: Word, Excel, PowerPoint
 Social Media: Facebook, Instagram, YouTube, LinkedIn, Twitter
 Google Marketing Certification							Spring 2020
-Hootsuite
+Hootsuite </p>
     
