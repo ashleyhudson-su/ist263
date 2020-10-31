@@ -1,0 +1,25 @@
+.nav-links {
+    border: olive 2px solid;
+    padding: 1em;
+    width: 100%;
+    height: 6em;
+}
+.nav-links ul {
+    list-style-type: none;
+    float: right;
+}
+.nav-links ul li {
+    display: inline-block;
+    border: orchid 2px solid;
+    padding: 1em;
+}
+.div {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+     }
+.div-1 {
+    border: 5px outset orange;
+    background-color: whitesmoke;    
+    text-align: center;
+}
