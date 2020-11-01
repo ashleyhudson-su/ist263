@@ -1,12 +1,12 @@
 * {
     font-family:'Salsa', cursive;
-    font-size: 28px;
+    font-size: 10px;
 }
 .page-container {margin: auto; padding: 0; width: 90%;}
 .nav-links {
     background-color:#993300;
     /*border:black 2px solid;*/
-    border-radius: 12px;
+    border-radius: 7px;
     padding: .5em;
     width: 99%;
     margin-right: 12em;
