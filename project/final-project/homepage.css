@@ -61,6 +61,22 @@ h3 {
     width: 374px;
     height: auto;
 }
+.nav-links a:link {
+    color:#862d59;
+}
+
+.nav-links a:hover {
+    color: black;
+}
+
+nav.link a:link {
+    color: #862d59;
+}
+
+nav.link a:hover {
+    color: black;
+}
+
 
 
 
